@@ -1,3 +1,3 @@
 # cat-code
 
-![](readmeInages/legend.png)
+![](readmeImages/legend.png)
